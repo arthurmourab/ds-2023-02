@@ -1,7 +1,7 @@
-### **O que é design de software?**
+## **O que é design de software?**
 Design de software é, de acordo com a norma ISO/IEC/IEEE 24765:2017, o uso de princípios científicos, informação técnica e imaginação na definição de um sistema de software para realizar funções pré-especificadas com o máximo de economia e eficiência.
 
-### **Quais são as atividades necessárias para projetar um software?**
+## **Quais são as atividades necessárias para projetar um software?**
 De acordo com a ISO/IEC/IEEE 24765:2017, as atividades e tarefas para o processo de definição de software são:
 - Preparar para a definição do projeto do sistema de software
 	 - Definir a estratégia de definição de projeto, consistente com o modelo de ciclo de vida selecionado e artefatos de projeto existentes.
@@ -10,5 +10,5 @@ De acordo com a ISO/IEC/IEEE 24765:2017, as atividades e tarefas para o processo
 	 - Obter ou adquirir acesso aos sistemas ou serviços habilitadores a serem usados.
 
 
-### **Você tinha conhecimento destas atividades e os entregáveis correspondentes? (sim/não)**
+## **Você tinha conhecimento destas atividades e os entregáveis correspondentes? (sim/não)**
 Já tinha conhecimento destas atividades, mas ainda não tenho certeza de como realizá-las.
